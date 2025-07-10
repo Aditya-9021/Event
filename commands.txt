@@ -1,0 +1,2 @@
+cd "C:\Users\2403667\OneDrive - Cognizant\Desktop\EventManagement\EventWebAPI\EventWebAPI"
+dotnet ef migrations list --project ..\..\EventManagement.Data\
