@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "EventWebInterface\\EventWebInterface.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
